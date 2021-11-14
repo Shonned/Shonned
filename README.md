@@ -18,12 +18,12 @@ I'am Kilian, I'm a French student at the end in high school and and I'am passion
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shonned&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shonned GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/Shonned/Noobnote">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shonned&repo=Noobnote&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/Shonned/MyDrugs2.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shonned&repo=MyDrugs2.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
