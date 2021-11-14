@@ -2,7 +2,7 @@
 
 I'am Kilian, I'm a French student at the end in high school and and I'am passionate about IT.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies used
 ![](https://img.shields.io/badge/HTML-grey)
 ![](https://img.shields.io/badge/CSS-grey)
 ![](https://img.shields.io/badge/JS-grey)
