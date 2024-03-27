@@ -1,6 +1,6 @@
 # Hey ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'am Kilian, I'm a French student at the end in high school and and I'am passionate about IT.
+I'm Kilian, a French student currently enrolled at IUT Lyon1, pursuing my passion for IT.
 
 ## 🔧 Technologies used
 ![](https://img.shields.io/badge/HTML-grey)
