@@ -6,8 +6,10 @@ I'm Kilian, a French student currently enrolled at IUT Lyon1, pursuing my passio
 ![](https://img.shields.io/badge/HTML-grey)
 ![](https://img.shields.io/badge/CSS-grey)
 ![](https://img.shields.io/badge/JS-grey)
+![](https://img.shields.io/badge/ReactJS-grey)
 ![](https://img.shields.io/badge/PHP-grey)
 ![](https://img.shields.io/badge/Python-grey)
+![](https://img.shields.io/badge/C++-grey)
 
 ## &#x1f4c8; GitHub Stats
 
